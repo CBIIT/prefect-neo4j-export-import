@@ -1,0 +1,179 @@
+0	Movie	{'tagline': 'Welcome to the Real World', 'title': 'The Matrix', 'released': 1999}
+1	Person	{'born': 1964, 'name': 'Keanu Reeves'}
+2	Person	{'born': 1967, 'name': 'Carrie-Anne Moss'}
+3	Person	{'born': 1961, 'name': 'Laurence Fishburne'}
+4	Person	{'born': 1960, 'name': 'Hugo Weaving'}
+5	Person	{'born': 1967, 'name': 'Andy Wachowski'}
+6	Person	{'born': 1965, 'name': 'Lana Wachowski'}
+7	Person	{'born': 1952, 'name': 'Joel Silver'}
+8	Person	{'born': 1978, 'name': 'Emil Eifrem'}
+9	Movie	{'tagline': 'Free your mind', 'title': 'The Matrix Reloaded', 'released': 2003}
+10	Movie	{'tagline': 'Everything that has a beginning has an end', 'title': 'The Matrix Revolutions', 'released': 2003}
+11	Movie	"{'tagline': 'Evil has its winning ways', 'title': ""The Devil's Advocate"", 'released': 1997}"
+12	Person	{'born': 1975, 'name': 'Charlize Theron'}
+13	Person	{'born': 1940, 'name': 'Al Pacino'}
+14	Person	{'born': 1944, 'name': 'Taylor Hackford'}
+15	Movie	"{'tagline': ""In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth."", 'title': 'A Few Good Men', 'released': 1992}"
+16	Person	{'born': 1962, 'name': 'Tom Cruise'}
+17	Person	{'born': 1937, 'name': 'Jack Nicholson'}
+18	Person	{'born': 1962, 'name': 'Demi Moore'}
+19	Person	{'born': 1958, 'name': 'Kevin Bacon'}
+20	Person	{'born': 1966, 'name': 'Kiefer Sutherland'}
+21	Person	{'born': 1971, 'name': 'Noah Wyle'}
+22	Person	{'born': 1968, 'name': 'Cuba Gooding Jr.'}
+23	Person	{'born': 1957, 'name': 'Kevin Pollak'}
+24	Person	{'born': 1943, 'name': 'J.T. Walsh'}
+25	Person	{'born': 1967, 'name': 'James Marshall'}
+26	Person	{'born': 1948, 'name': 'Christopher Guest'}
+27	Person	{'born': 1947, 'name': 'Rob Reiner'}
+28	Person	{'born': 1961, 'name': 'Aaron Sorkin'}
+29	Movie	{'tagline': 'I feel the need, the need for speed.', 'title': 'Top Gun', 'released': 1986}
+30	Person	{'born': 1957, 'name': 'Kelly McGillis'}
+31	Person	{'born': 1959, 'name': 'Val Kilmer'}
+32	Person	{'born': 1962, 'name': 'Anthony Edwards'}
+33	Person	{'born': 1933, 'name': 'Tom Skerritt'}
+34	Person	{'born': 1961, 'name': 'Meg Ryan'}
+35	Person	{'born': 1944, 'name': 'Tony Scott'}
+36	Person	{'born': 1941, 'name': 'Jim Cash'}
+37	Movie	{'tagline': 'The rest of his life begins now.', 'title': 'Jerry Maguire', 'released': 2000}
+38	Person	{'born': 1969, 'name': 'Renee Zellweger'}
+39	Person	{'born': 1962, 'name': 'Kelly Preston'}
+40	Person	"{'born': 1974, 'name': ""Jerry O'Connell""}"
+41	Person	{'born': 1970, 'name': 'Jay Mohr'}
+42	Person	{'born': 1961, 'name': 'Bonnie Hunt'}
+43	Person	{'born': 1971, 'name': 'Regina King'}
+44	Person	{'born': 1996, 'name': 'Jonathan Lipnicki'}
+45	Person	{'born': 1957, 'name': 'Cameron Crowe'}
+46	Movie	"{'tagline': ""For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of."", 'title': 'Stand By Me', 'released': 1986}"
+47	Person	{'born': 1970, 'name': 'River Phoenix'}
+48	Person	{'born': 1971, 'name': 'Corey Feldman'}
+49	Person	{'born': 1972, 'name': 'Wil Wheaton'}
+50	Person	{'born': 1966, 'name': 'John Cusack'}
+51	Person	{'born': 1942, 'name': 'Marshall Bell'}
+52	Movie	{'tagline': 'A comedy from the heart that goes for the throat.', 'title': 'As Good as It Gets', 'released': 1997}
+53	Person	{'born': 1963, 'name': 'Helen Hunt'}
+54	Person	{'born': 1963, 'name': 'Greg Kinnear'}
+55	Person	{'born': 1940, 'name': 'James L. Brooks'}
+56	Movie	{'tagline': 'After life there is more. The end is just the beginning.', 'title': 'What Dreams May Come', 'released': 1998}
+57	Person	{'born': 1960, 'name': 'Annabella Sciorra'}
+58	Person	{'born': 1929, 'name': 'Max von Sydow'}
+59	Person	{'born': 1942, 'name': 'Werner Herzog'}
+60	Person	{'born': 1951, 'name': 'Robin Williams'}
+61	Person	{'born': 1956, 'name': 'Vincent Ward'}
+62	Movie	{'tagline': 'First loves last. Forever.', 'title': 'Snow Falling on Cedars', 'released': 1999}
+63	Person	{'born': 1970, 'name': 'Ethan Hawke'}
+64	Person	{'born': 1971, 'name': 'Rick Yune'}
+65	Person	{'born': 1940, 'name': 'James Cromwell'}
+66	Person	{'born': 1953, 'name': 'Scott Hicks'}
+67	Movie	"{'tagline': 'At odds in life... in love on-line.', 'title': ""You've Got Mail"", 'released': 1998}"
+68	Person	{'born': 1968, 'name': 'Parker Posey'}
+69	Person	{'born': 1973, 'name': 'Dave Chappelle'}
+70	Person	{'born': 1967, 'name': 'Steve Zahn'}
+71	Person	{'born': 1956, 'name': 'Tom Hanks'}
+72	Person	{'born': 1941, 'name': 'Nora Ephron'}
+73	Movie	{'tagline': 'What if someone you never met, someone you never saw, someone you never knew was the only someone for you?', 'title': 'Sleepless in Seattle', 'released': 1993}
+74	Person	{'born': 1956, 'name': 'Rita Wilson'}
+75	Person	{'born': 1953, 'name': 'Bill Pullman'}
+76	Person	{'born': 1949, 'name': 'Victor Garber'}
+77	Person	"{'born': 1962, 'name': ""Rosie O'Donnell""}"
+78	Movie	{'tagline': 'A story of love, lava and burning desire.', 'title': 'Joe Versus the Volcano', 'released': 1990}
+79	Person	{'born': 1950, 'name': 'John Patrick Stanley'}
+80	Person	{'born': 1956, 'name': 'Nathan Lane'}
+81	Movie	{'tagline': 'At odds in life... in love on-line.', 'title': 'When Harry Met Sally', 'released': 1998}
+82	Person	{'born': 1948, 'name': 'Billy Crystal'}
+83	Person	{'born': 1956, 'name': 'Carrie Fisher'}
+84	Person	{'born': 1949, 'name': 'Bruno Kirby'}
+85	Movie	{'tagline': 'In every life there comes a time when that thing you dream becomes that thing you do', 'title': 'That Thing You Do', 'released': 1996}
+86	Person	{'born': 1977, 'name': 'Liv Tyler'}
+87	Movie	{'tagline': 'Pain heals, Chicks dig scars... Glory lasts forever', 'title': 'The Replacements', 'released': 2000}
+88	Person	{'born': 1970, 'name': 'Brooke Langton'}
+89	Person	{'born': 1930, 'name': 'Gene Hackman'}
+90	Person	{'born': 1968, 'name': 'Orlando Jones'}
+91	Person	{'born': 1950, 'name': 'Howard Deutch'}
+92	Movie	"{'tagline': ""Based on the extraordinary true story of one man's fight for freedom"", 'title': 'RescueDawn', 'released': 2006}"
+93	Person	{'born': 1974, 'name': 'Christian Bale'}
+94	Person	{'born': 1954, 'name': 'Zach Grenier'}
+95	Movie	{'tagline': 'Come as you are', 'title': 'The Birdcage', 'released': 1996}
+96	Person	{'born': 1931, 'name': 'Mike Nichols'}
+97	Movie	"{'tagline': ""It's a hell of a thing, killing a man"", 'title': 'Unforgiven', 'released': 1992}"
+98	Person	{'born': 1930, 'name': 'Richard Harris'}
+99	Person	{'born': 1930, 'name': 'Clint Eastwood'}
+100	Movie	{'tagline': 'The hottest data on earth. In the coolest head in town', 'title': 'Johnny Mnemonic', 'released': 1995}
+101	Person	{'born': 1947, 'name': 'Takeshi Kitano'}
+102	Person	{'born': 1968, 'name': 'Dina Meyer'}
+103	Person	{'born': 1958, 'name': 'Ice-T'}
+104	Person	{'born': 1953, 'name': 'Robert Longo'}
+105	Movie	{'tagline': 'Everything is connected', 'title': 'Cloud Atlas', 'released': 2012}
+106	Person	{'born': 1966, 'name': 'Halle Berry'}
+107	Person	{'born': 1949, 'name': 'Jim Broadbent'}
+108	Person	{'born': 1965, 'name': 'Tom Tykwer'}
+109	Movie	{'tagline': 'Break The Codes', 'title': 'The Da Vinci Code', 'released': 2006}
+110	Person	{'born': 1939, 'name': 'Ian McKellen'}
+111	Person	{'born': 1976, 'name': 'Audrey Tautou'}
+112	Person	{'born': 1971, 'name': 'Paul Bettany'}
+113	Person	{'born': 1954, 'name': 'Ron Howard'}
+114	Movie	{'tagline': 'Freedom! Forever!', 'title': 'V for Vendetta', 'released': 2006}
+115	Person	{'born': 1981, 'name': 'Natalie Portman'}
+116	Person	{'born': 1946, 'name': 'Stephen Rea'}
+117	Person	{'born': 1940, 'name': 'John Hurt'}
+118	Person	{'born': 1967, 'name': 'Ben Miles'}
+119	Movie	{'tagline': 'Speed has no limits', 'title': 'Speed Racer', 'released': 2008}
+120	Person	{'born': 1985, 'name': 'Emile Hirsch'}
+121	Person	{'born': 1960, 'name': 'John Goodman'}
+122	Person	{'born': 1946, 'name': 'Susan Sarandon'}
+123	Person	{'born': 1966, 'name': 'Matthew Fox'}
+124	Person	{'born': 1980, 'name': 'Christina Ricci'}
+125	Person	{'born': 1982, 'name': 'Rain'}
+126	Movie	{'tagline': 'Prepare to enter a secret world of assassins', 'title': 'Ninja Assassin', 'released': 2009}
+127	Person	{'name': 'Naomie Harris'}
+128	Movie	"{'tagline': ""Walk a mile you'll never forget."", 'title': 'The Green Mile', 'released': 1999}"
+129	Person	{'born': 1957, 'name': 'Michael Clarke Duncan'}
+130	Person	{'born': 1953, 'name': 'David Morse'}
+131	Person	{'born': 1968, 'name': 'Sam Rockwell'}
+132	Person	{'born': 1955, 'name': 'Gary Sinise'}
+133	Person	{'born': 1959, 'name': 'Patricia Clarkson'}
+134	Person	{'born': 1959, 'name': 'Frank Darabont'}
+135	Movie	{'tagline': '400 million people were waiting for the truth.', 'title': 'Frost/Nixon', 'released': 2008}
+136	Person	{'born': 1938, 'name': 'Frank Langella'}
+137	Person	{'born': 1969, 'name': 'Michael Sheen'}
+138	Person	{'born': 1960, 'name': 'Oliver Platt'}
+139	Movie	"{'tagline': ""He didn't want law. He wanted justice."", 'title': 'Hoffa', 'released': 1992}"
+140	Person	{'born': 1944, 'name': 'Danny DeVito'}
+141	Person	{'born': 1965, 'name': 'John C. Reilly'}
+142	Movie	{'tagline': 'Houston, we have a problem.', 'title': 'Apollo 13', 'released': 1995}
+143	Person	{'born': 1950, 'name': 'Ed Harris'}
+144	Person	{'born': 1955, 'name': 'Bill Paxton'}
+145	Movie	"{'tagline': ""Don't Breathe. Don't Look Back."", 'title': 'Twister', 'released': 1996}"
+146	Person	{'born': 1967, 'name': 'Philip Seymour Hoffman'}
+147	Person	{'born': 1943, 'name': 'Jan de Bont'}
+148	Movie	{'tagline': 'At the edge of the world, his journey begins.', 'title': 'Cast Away', 'released': 2000}
+149	Person	{'born': 1951, 'name': 'Robert Zemeckis'}
+150	Movie	"{'tagline': ""If he's crazy, what does that make you?"", 'title': ""One Flew Over the Cuckoo's Nest"", 'released': 1975}"
+151	Person	{'born': 1932, 'name': 'Milos Forman'}
+152	Movie	"{'title': ""Something's Gotta Give"", 'released': 2003}"
+153	Person	{'born': 1946, 'name': 'Diane Keaton'}
+154	Person	{'born': 1949, 'name': 'Nancy Meyers'}
+155	Movie	"{'tagline': ""One robot's 200 year journey to become an ordinary man."", 'title': 'Bicentennial Man', 'released': 1999}"
+156	Person	{'born': 1958, 'name': 'Chris Columbus'}
+157	Movie	"{'tagline': ""A stiff drink. A little mascara. A lot of nerve. Who said they couldn't bring down the Soviet empire."", 'title': ""Charlie Wilson's War"", 'released': 2007}"
+158	Person	{'born': 1967, 'name': 'Julia Roberts'}
+159	Movie	{'tagline': 'This Holiday Season… Believe', 'title': 'The Polar Express', 'released': 2004}
+160	Movie	{'tagline': 'Once in a lifetime you get a chance to do something different.', 'title': 'A League of Their Own', 'released': 1992}
+161	Person	{'born': 1954, 'name': 'Madonna'}
+162	Person	{'born': 1956, 'name': 'Geena Davis'}
+163	Person	{'born': 1963, 'name': 'Lori Petty'}
+164	Person	{'born': 1943, 'name': 'Penny Marshall'}
+165	Person	{'name': 'Paul Blythe'}
+166	Person	{'name': 'Angela Scope'}
+167	Person	{'name': 'Jessica Thompson'}
+168	Person	{'name': 'James Thompson'}
+169	Movie	{'tagline': 'Act like you own the place', 'title': 'Parasite', 'released': 2019}
+170	Person	{'name': 'Kang-ho Song'}
+171	Person	{'name': 'Sun-kyun Lee'}
+172	Person	{'name': 'Yeo-jeong Jo'}
+173	Person	{'name': 'Woo-sik Choi'}
+174	Person	{'name': 'So-dam Park'}
+175	Movie	{'tagline': 'Put on a happy face', 'title': 'Joker', 'released': 2019}
+176	Person	{'name': 'Joaquin Phoenix'}
+177	Person	{'name': 'Robert De Niro'}
+178	Person	{'name': 'Zazie Beetz'}
