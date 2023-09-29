@@ -14,6 +14,13 @@ Used to run a prefect flow to load Neo4J using neo4j_exporter module.
 
 # Environment Variables
 NEO4J_URI = bolt://localhost:7687 ({protocol}://{ipv4}:{port})
+
 NEO4J_USER=neo4j (db username)
+
 NEO4J_PASSWORD=password (db password)
+
+# Example Files
+Nodes TSV File: nodes-2023-09-28T-10-23-50.tsv
+
+Relationships TSV File: rel-2023-09-28T-10-23-50.tsv
 
